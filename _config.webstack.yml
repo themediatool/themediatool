@@ -1,0 +1,412 @@
+favicon: /favicon.ico
+banner: /images/webstack_banner_cn.png
+
+logo:
+  expanded: /images/logo@2x.png
+  collapsed: /images/logo-collapsed@2x.png
+  dark: /images/logo_dark@2x.png
+
+flag:
+  - name: Chinese
+    default: true
+    icon: flag-cn
+    index: /index.html
+
+search: true
+
+userDefinedSearchData:
+  custom: false
+  thisSearch: https://www.baidu.com/s?wd=
+  thisSearchIcon: url(https://www.baidu.com/favicon.ico)
+  hotStatus: true
+  data:
+    - name: 百度
+      img: url(https://www.baidu.com/favicon.ico)
+      url: https://www.baidu.com/s?wd=
+
+githubCorner: '<a href="https://www.yaoxiaoling.com/" class="github-corner" aria-label="开启搞钱征途"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>'
+
+expandAll: false
+menu:
+  - name: 新媒体工具
+    icon: far fa-star
+    config: mediaTools
+  - name: 海外社媒
+    icon: far fa-star
+    config: outsocial
+  - name: 独立站工具
+    icon: far fa-star
+    config: independentTools
+  - name: podtools
+    icon: far fa-star
+    config: podtools
+  - name: 常用工具
+    icon: far fa-star
+    config: hotTools
+  - name: 亚马逊站点
+    icon: far fa-star
+    config: amzWeb
+  - name: 综合软件
+    icon: fas fa-tools
+    submenu:
+      - name: 选品分析
+        icon: fas fa-tools
+        config: select
+      - name: 关键词
+        icon: fas fa-blog
+        config: keyword
+      - name: 收款金融
+        icon: fas fa-blog
+        config: payment
+      - name: 商标专利
+        icon: fas fa-blog
+        config: trademark
+  - name: 货源网站
+    icon: far fa-star
+    config: sourceWeb
+  - name: 其他工具
+    icon: far fa-star
+    config: otherTools
+
+mediaTools:
+  - name: 千瓜
+    url: http://www.qian-gua.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 千瓜
+  - name: 新榜
+    url: https://www.newrank.cn/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 新榜
+  - name: 巨量创意
+    url: https://cc.oceanengine.com
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 巨量创意
+  - name: 5118
+    url: https://www.5118.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 5118
+
+outsocial:
+  - name: Instagram
+    url: https://www.instagram.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/ins.webp
+    description: 图片及视频分享平台
+  - name: TikTok
+    url: https://www.tiktok.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/tiktok.webp
+    description: 海外抖音，短视频分享平台
+  - name: Pinterest
+    url: https://www.pinterest.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/pinterest.webp
+    description: 图片分享社交网站
+  - name: YouTube
+    url: https://www.youtube.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/youtube.webp
+    description: 全球最大视频网站
+  - name: Facebook
+    url: https://www.facebook.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/facebook.webp
+    description: 全球最大社交媒体平台
+  - name: Twitter
+    url: https://twitter.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/twitter.webp
+    description: 微博客和社交网络服务平台
+  - name: Reddit
+    url: https://www.reddit.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/reddit.webp
+    description: 娱乐、社交及新闻网站
+  - name: Quora
+    url: https://www.quora.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/quora.webp
+    description: 国外版知乎
+  - name: Vkontakte
+    url: https://vk.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/vk.webp
+    description: 俄罗斯社交平台
+  - name: Snapchat
+    url: https://www.snapchat.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/snapchat.webp
+    description: 图片分享软件应用
+  - name: LinkedIn
+    url: https://www.linkedin.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/linkedin.webp
+    description: 全球最大职业社交网站
+  - name: Myspace
+    url: https://myspace.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/myspace.webp
+    description: 社交网络平台
+independentTools:
+  - name: instavideosave
+    url: https://instavideosave.net/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 海外社交媒体视频下载
+  - name: igram
+    url: https://igram.io/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/igram.webp
+    description: instagram图片视频下载
+  - name: 全球物流查询平台
+    url: https://www.17track.net/
+    img: https://res.17track.net/global-v2/imgs/logo/svg/full_owt_296x48.svg
+    description: 全球物流查询平台
+  - name: woocommerce
+    url: https://woocommerce.com/
+    img: https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.svg
+    description: woocommerce
+  - name: siteground
+    url: https://www.siteground.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: siteground
+  - name: themeforest
+    url: https://themeforest.net/
+    img: https://assets.market-storefront.envato-static.com/storefront/assets/logos/envato-market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg
+    description: themeforest
+  - name: builtwith
+    url: https://builtwith.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: builtwith
+  - name: aliyun
+    url: https://aliyun.com/
+    img: https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png
+    description: aliyun
+  - name: 万网
+    url: https://wanwang.aliyun.com/
+    img: https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png
+    description: 万网
+  - name: 云途物流
+    url: https://www.yunexpress.cn/
+    img: https://www.yunexpress.cn/webPage/images/icon/logo.png
+    description: 小包跨境配送
+
+podtools:
+  - name: teespring
+    url: https://teespring.com/shop/funny-men-s-tshirts
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: teespring
+  - name: gearbubble
+    url: https://www.gearbubble.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: gearbubble
+  - name: teespy
+    url: https://teespy.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: teespy
+
+hotTools:
+  - name: Sif关键词
+    url: https://www.sif.com/search
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/sif.webp
+    description: 查广告架构、运营打法、流量结构，体系化运营关键词流量
+  - name: 领星ERP
+    url: https://erp.lingxing.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/lx.webp
+    description: 领星ERP 5000单/月免费用！财务、广告、供应链全功能开放！
+  - name: DeepL翻译器
+    url: https://www.deepl.com/translator
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/deepl.webp
+    description: 比较精准的机器翻译
+  - name: JungleScout
+    url: https://www.junglescout.cn/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/jscount.webp
+    description: 大数据选品/关键词分析/批量邀评/站外促销/跟卖提醒/店铺运营分析
+
+amzWeb:
+  - name: 美国站
+    url: https://www.amazon.com
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mg.webp
+    description: 亚马逊美国站
+  - name: 英国站
+    url: https://www.amazon.co.uk
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/yg.webp
+    description: 亚马逊英国站
+  - name: 德国站
+    url: https://www.amazon.de
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/dg.webp
+    description: 亚马逊德国站
+  - name: 法国站
+    url: https://www.amazon.fr
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/fg.webp
+    description: 亚马逊法国站
+  - name: 意大利站
+    url: https://www.amazon.it
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/ydl.webp
+    description: 亚马逊意大利站
+  - name: 西班牙站
+    url: https://www.amazon.es
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/xby.webp
+    description: 亚马逊西班牙站
+  - name: 加拿大站
+    url: https://www.amazon.ca
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/jnd.webp
+    description: 亚马逊加拿大站
+  - name: 墨西哥站
+    url: https://www.amazon.com.mx
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mxg.webp
+    description: 亚马逊墨西哥站
+  - name: 日本站
+    url: https://www.amazon.co.jp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/rb.webp
+    description: 亚马逊日本站
+  - name: 美国后台
+    url: https://sellercentral.amazon.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 美国卖家后台
+  - name: 亚马逊全球开店
+    url: https://gs.amazon.cn
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/kd.webp
+    description: 美国卖家后台
+
+select:
+  - name: Google Trend
+    url: https://trends.google.com
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/google.webp
+    description:  查看关键词在Google的搜索次数及变化趋势
+
+keyword:
+  - name: Sif关键词
+    url: https://www.sif.com/search
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/sif.webp
+    description: 查广告架构、运营打法、流量结构，体系化运营关键词流量
+  - name: H10
+    url: https://h10.com.cn/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/h10.webp
+    description: 选品 选关键词 做市场调研 用H10就够了（现已支持沃尔玛）
+
+payment:
+  - name: PingPong
+    url: https://www.pingpongx.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/pingpong.webp
+    description: 多平台多币种速到账；支持11国VAT，出口退税，虚拟信用卡
+  - name: paypal
+    url: https://www.paypal.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/pingpong.webp
+    description: paypal收款
+
+trademark:
+  - name: 美国商标局
+    url: https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mgsb.webp
+    description: 美国商标局
+  - name: 美国专利局
+    url: https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mgzl.webp
+    description: 美国专利局
+
+sourceWeb:
+  - name: 1688
+    url: https://www.1688.com
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/1688.webp
+    description: 1688
+  - name: 阿里国际
+    url: https://www.alibaba.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/algj.webp
+    description: 阿里国际
+  - name: 赛盈分销
+    url: https://www.saleyee.cn
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/syfx.webp
+    description: 赛盈分销
+  - name: 美适分销
+    url: https://www.mixsss.com
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/msfx.webp
+    description: 美适分销
+  - name: sds定制
+    url: https://www.sdsdiy.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/sdsdz.webp
+    description: sds定制
+
+otherTools:
+  - name: 词组重复统计
+    url: http://www.writewords.org.uk/word_count.asp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 词组重复统计
+  - name: 字数统计
+    url: https://www.mingmu.net/zishu.html
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 字数统计
+  - name: grammarly
+    url: https://www.grammarly.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 语法校验
+  - name: amz123
+    url: https://www.amz123.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: amz123
+  - name: myip
+    url: https://myip.ms/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 全球ip定位查询
+  - name: 视频在线解析
+    url: https://v.ctrlqq.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: 视频在线解析
+  - name: bejson
+    url: https://www.bejson.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: bejson
+  - name: tinypng
+    url: https://tinypng.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: tinypng
+  - name: word转pdf
+    url: http://www.pdfdo.com/doc-to-pdf.aspx
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    description: word转pdf
+
+about:
+  url: /about/
+  icon: far fa-heart
+  name: 关于本站
+
+aboutPage:
+  website:
+    head: 关于本站
+    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
+  webmaster:
+    head: 关于站长
+    name: HCLonely
+    url: https://blog.hclonely.com/
+    img: /images/logos/myblog.png
+    description: 懒人一个
+    html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+
+since: 2020
+
+busuanzi:
+  enable: true
+  position: sidebar # 'footer','sidebar'
+  pv: 本站总访问量$pv
+  uv: 本站总访客数$uv
+
+custom:
+  head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
+    <!-- 直接添加html内容即可 -->
+    <!-- 可设置多行 -->
+  body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
+    <!-- 直接添加html内容即可 -->
+    <!-- 可设置多行 -->
+
+js:
+  header: /js/header.js
+  footer: /js/footer.js
+  jquery: /js/jquery-1.11.1.min.js
+  bootstrap: /js/bootstrap.min.js
+  TweenMax: /js/TweenMax.min.js
+  resizeable: /js/resizeable.min.js
+  joinable: /js/joinable.js
+  xenonApi: /js/xenon-api.min.js
+  xenonToggles: /js/xenon-toggles.min.js
+  xenonCustom: /js/xenon-custom.min.js
+  lozad: /js/lozad.min.js
+  html5shiv: /js/html5shiv.min.js
+  respond: /js/respond.min.js
+  busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+
+css:
+  hclonely: /css/hclonely.css
+  fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
+  linecons: /css/fonts/linecons/css/linecons.min.css
+  fontawesome: /css/fonts/fontawesome/css/all.min.css
+  bootstrap: /css/bootstrap.min.css
+  xenonCore: /css/xenon-core.min.css
+  xenonComponents: /css/xenon-components.min.css
+  xenonSkins: /css/xenon-skins.min.css
+  nav: /css/nav.min.css
