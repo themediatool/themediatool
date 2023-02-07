@@ -57,7 +57,7 @@ mediaTools:
     description: 千瓜
   - name: 新榜
     url: https://www.newrank.cn/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/newrank.webp
     description: 新榜
   - name: 巨量创意
     url: https://cc.oceanengine.com
