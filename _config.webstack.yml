@@ -67,6 +67,10 @@ mediaTools:
     url: https://www.5118.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: 5118
+  - name: chatgpt
+    url: https://chat.openai.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/chatgpt.webp
+    description: chatgpt
 
 select:
   - name: Google Trend
@@ -105,41 +109,21 @@ trademark:
     description: 美国专利局
 
 otherTools:
-  - name: 词组重复统计
-    url: http://www.writewords.org.uk/word_count.asp
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
-    description: 词组重复统计
-  - name: 字数统计
-    url: https://www.mingmu.net/zishu.html
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
-    description: 字数统计
-  - name: grammarly
-    url: https://www.grammarly.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
-    description: 语法校验
-  - name: amz123
-    url: https://www.amz123.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
-    description: amz123
-  - name: myip
-    url: https://myip.ms/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
-    description: 全球ip定位查询
   - name: 视频在线解析
     url: https://v.ctrlqq.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: 视频在线解析
   - name: bejson
     url: https://www.bejson.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/bejson.webp
     description: bejson
   - name: tinypng
     url: https://tinypng.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/tinypng.webp
     description: tinypng
   - name: word转pdf
     url: http://www.pdfdo.com/doc-to-pdf.aspx
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pdf.webp
     description: word转pdf
 
 about:
