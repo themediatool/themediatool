@@ -53,65 +53,65 @@ menu:
 mediaTools:
   - name: 千瓜
     url: http://www.qian-gua.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/qiangua.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/qiangua.webp
     description: 红书数据工具,依托大数据技术,提供品牌投放分析,选品找号,营销效果追踪,舆情监控等数据服务,帮助品牌洞察需求,精准投放。
   - name: 新榜
     url: https://www.newrank.cn/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/newrank.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/newrank.webp
     description: 新趋势、新热点、新爆款!2023从新出发,等你来聊。 
   - name: 巨量创意
     url: https://cc.oceanengine.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/oceanengine.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/oceanengine.webp
     description: 抖音集团商业化官方营销创意交流服务平台,专注营销广告创意 & 创造客户价值,丰富的版权素材市场,高效的创意制作工具,洞察业内灵感来源,全方位的专业指南
   - name: 5118
     url: https://www.5118.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/5118.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/5118.webp
     description: 5118通过对排名各类大数据挖掘,提供关键词挖掘,行业词库,站群权重监控,关键词排名监控,指数词,流量词挖掘工具等排名工作人员必备百度站长工具平台
   - name: chatgpt
     url: https://chat.openai.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/chatgpt.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
     description: chatgpt
 
 select:
   - name: Google Trend
     url: https://trends.google.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/google.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/google.webp
     description:  查看关键词在Google的搜索次数及变化趋势
 
 keyword:
   - name: Sif关键词
     url: https://www.sif.com/search
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/sif.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/sif.webp
     description: 查广告架构、运营打法、流量结构，体系化运营关键词流量
 
 payment:
   - name: PingPong
     url: https://www.pingpongx.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pingpong.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/pingpong.webp
     description: 多平台多币种速到账；支持11国VAT，出口退税，虚拟信用卡
 
 trademark:
   - name: 美国商标局
     url: https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mgsb.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mgsb.webp
     description: 美国商标局
 
 otherTools:
   - name: 视频在线解析
     url: https://v.ctrlqq.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mght.webp
     description: 视频在线解析
   - name: bejson
     url: https://www.bejson.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/bejson.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/bejson.webp
     description: bejson
   - name: tinypng
     url: https://tinypng.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/tinypng.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/tinypng.webp
     description: tinypng
   - name: word转pdf
     url: http://www.pdfdo.com/doc-to-pdf.aspx
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pdf.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/pdf.webp
     description: word转pdf
 
 about:
