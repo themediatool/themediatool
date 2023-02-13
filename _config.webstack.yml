@@ -2,7 +2,7 @@ favicon: /favicon.ico
 banner: /images/webstack_banner_cn.png
 
 logo:
-  expanded: /images/logo@2x.png
+  expanded: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/themediatool3.webp
   collapsed: /images/logo-collapsed@2x.png
   dark: /images/logo_dark@2x.png
 
@@ -34,9 +34,9 @@ menu:
   - name: 综合软件
     icon: fas fa-tools
     submenu:
-      - name: 选品分析
+      - name: 在线抠图
         icon: fas fa-tools
-        config: select
+        config: removebg
       - name: 关键词
         icon: fas fa-blog
         config: keyword
@@ -72,11 +72,11 @@ mediaTools:
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
     description: chatgpt
 
-select:
-  - name: Google Trend
-    url: https://trends.google.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/google.webp
-    description:  查看关键词在Google的搜索次数及变化趋势
+removebg:
+  - name: remove bg
+    url: https://www.remove.bg/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/removebg.webp
+    description:  在线抠图
 
 keyword:
   - name: Sif关键词
@@ -127,7 +127,7 @@ aboutPage:
     head: 关于站长
     name: HCLonely
     url: https://blog.hclonely.com/
-    img: /images/logos/myblog.png
+    img: /images/logos/myblog.png 
     description: 懒人一个
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
