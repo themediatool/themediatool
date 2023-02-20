@@ -113,6 +113,10 @@ otherTools:
     url: http://www.pdfdo.com/doc-to-pdf.aspx
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/pdf.webp
     description: word转pdf
+  - name: 万动力
+    url: https://www.wandongli.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/wdl.webp
+    description: logo设计
 
 about:
   url: /about/
