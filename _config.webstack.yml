@@ -37,9 +37,9 @@ menu:
       - name: 在线抠图
         icon: fas fa-tools
         config: removebg
-      - name: 关键词
+      - name: 在线文档
         icon: fas fa-blog
-        config: keyword
+        config: onlinedocument
       - name: 收款金融
         icon: fas fa-blog
         config: payment
@@ -78,11 +78,11 @@ removebg:
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/removebg.webp
     description:  在线抠图
 
-keyword:
-  - name: Sif关键词
-    url: https://www.sif.com/search
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/sif.webp
-    description: 查广告架构、运营打法、流量结构，体系化运营关键词流量
+onlinedocument:
+  - name: 在线文档
+    url: https://feishu.cn/drive/home/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/feishu.webp
+    description: 飞书在线文档
 
 payment:
   - name: PingPong
