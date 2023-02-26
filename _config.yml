@@ -103,5 +103,5 @@ theme: webstack
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github_media:themediatool/themediatool.github.io.git
+  repository: git@github_7788:themediatool/themediatool.github.io.git
   branch: main
