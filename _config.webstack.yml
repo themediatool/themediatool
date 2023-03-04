@@ -83,6 +83,10 @@ onlinedocument:
     url: https://feishu.cn/drive/home/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/feishu.webp
     description: 飞书在线文档
+  - name: 幕布
+    url: https://mubu.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mubu.webp
+    description: 极简大纲笔记，一键生成思维导图
 
 payment:
   - name: PingPong
