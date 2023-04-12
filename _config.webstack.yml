@@ -121,6 +121,10 @@ otherTools:
     url: https://www.wandongli.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/wdl.webp
     description: logo设计
+  - name: 跨境电商
+    url: https://ecommercetool.github.io/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/oceanengine.webp
+    description: logo设计
 
 about:
   url: /about/
