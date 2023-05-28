@@ -40,12 +40,6 @@ menu:
       - name: 在线文档
         icon: fas fa-blog
         config: onlinedocument
-      - name: 收款金融
-        icon: fas fa-blog
-        config: payment
-      - name: 商标专利
-        icon: fas fa-blog
-        config: trademark
   - name: 其他工具
     icon: far fa-star
     config: otherTools
@@ -87,18 +81,6 @@ onlinedocument:
     url: https://mubu.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mubu.webp
     description: 极简大纲笔记，一键生成思维导图
-
-payment:
-  - name: PingPong
-    url: https://www.pingpongx.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/pingpong.webp
-    description: 多平台多币种速到账；支持11国VAT，出口退税，虚拟信用卡
-
-trademark:
-  - name: 美国商标局
-    url: https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mgsb.webp
-    description: 美国商标局
 
 otherTools:
   - name: 视频在线解析
