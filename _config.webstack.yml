@@ -28,7 +28,10 @@ githubCorner: '<a href="https://www.yaoxiaoling.com/" class="github-corner" aria
 
 expandAll: false
 menu:
-  - name: 新媒体工具
+  - name: 常用工具
+    icon: far fa-star
+    config: hotTools  
+  - name: 数据分析
     icon: far fa-star
     config: mediaTools
   - name: 综合软件
@@ -44,6 +47,16 @@ menu:
     icon: far fa-star
     config: otherTools
 
+hotTools:
+  - name: 5118
+    url: https://www.5118.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/5118.webp
+    description: 5118通过对排名各类大数据挖掘,提供关键词挖掘,行业词库,站群权重监控,关键词排名监控,指数词,流量词挖掘工具
+  - name: chatgpt
+    url: https://chat.openai.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
+    description: chatgpt
+
 mediaTools:
   - name: 千瓜
     url: http://www.qian-gua.com/
@@ -57,14 +70,15 @@ mediaTools:
     url: https://cc.oceanengine.com
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/oceanengine.webp
     description: 抖音集团商业化官方营销创意交流服务平台,专注营销广告创意 & 创造客户价值,丰富的版权素材市场,高效的创意制作工具,洞察业内灵感来源,全方位的专业指南
-  - name: 5118
-    url: https://www.5118.com/
+  - name: 考古加
+    url: https://www.kaogujia.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/5118.webp
-    description: 5118通过对排名各类大数据挖掘,提供关键词挖掘,行业词库,站群权重监控,关键词排名监控,指数词,流量词挖掘工具等排名工作人员必备百度站长工具平台
-  - name: chatgpt
-    url: https://chat.openai.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
-    description: chatgpt
+    description: 兴趣电商数据专家
+  - name: 蝉妈妈
+    url: https://www.chanmama.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/5118.webp
+    description: 兴趣电商数据专家
+
 
 removebg:
   - name: remove bg
