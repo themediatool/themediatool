@@ -31,21 +31,27 @@ menu:
   - name: 常用工具
     icon: far fa-star
     config: hotTools  
-  - name: 数据分析
+  - name: 国内平台
     icon: far fa-star
-    config: mediaTools
-  - name: 综合软件
+    config: innersocial
+  - name: 海外社媒
+    icon: fas fa-tools
+    config: outsocial 
+  - name: 综合软件工具
     icon: fas fa-tools
     submenu:
+      - name: 数据分析
+        icon: far fa-star
+        config: analysisTools
       - name: 在线抠图
         icon: fas fa-tools
         config: removebg
       - name: 在线文档
         icon: fas fa-blog
         config: onlinedocument
-  - name: 其他工具
-    icon: far fa-star
-    config: otherTools
+      - name: 其他工具
+        icon: far fa-star
+        config: otherTools
 
 hotTools:
   - name: 5118
@@ -56,8 +62,81 @@ hotTools:
     url: https://chat.openai.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
     description: chatgpt
+  - name: 在线文档
+    url: https://feishu.cn/drive/home/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/feishu.webp
+    description: 飞书在线文档
+  - name: igram
+    url: https://igram.io/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/igram.webp
+    description: instagram图片视频下载
 
-mediaTools:
+innersocial:
+  - name: 小红书
+    url: https://www.xiaohongshu.com/explore
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/5118.webp
+    description: 5118通过对排名各类大数据挖掘,提供关键词挖掘,行业词库,站群权重监控,关键词排名监控,指数词,流量词挖掘工具
+  - name: 抖音
+    url: https://www.douyin.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
+    description: chatgpt
+  - name: 知乎
+    url: https://www.zhihu.com/creator
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/feishu.webp
+    description: 飞书在线文档
+
+outsocial:
+  - name: Instagram
+    url: https://www.instagram.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/ins.webp
+    description: 图片及视频分享平台
+  - name: TikTok
+    url: https://www.tiktok.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/tiktok.webp
+    description: 海外抖音，短视频分享平台
+  - name: Pinterest
+    url: https://www.pinterest.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/pinterest.webp
+    description: 图片分享社交网站
+  - name: YouTube
+    url: https://www.youtube.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/youtube.webp
+    description: 全球最大视频网站
+  - name: Facebook
+    url: https://www.facebook.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/facebook.webp
+    description: 全球最大社交媒体平台
+  - name: Twitter
+    url: https://twitter.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/twitter.webp
+    description: 微博客和社交网络服务平台
+  - name: Reddit
+    url: https://www.reddit.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/reddit.webp
+    description: 娱乐、社交及新闻网站
+  - name: Quora
+    url: https://www.quora.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/quora.webp
+    description: 国外版知乎
+  - name: Vkontakte
+    url: https://vk.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/vk.webp
+    description: 俄罗斯社交平台
+  - name: Snapchat
+    url: https://www.snapchat.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/snapchat.webp
+    description: 图片分享软件应用
+  - name: LinkedIn
+    url: https://www.linkedin.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/linkedin.webp
+    description: 全球最大职业社交网站
+  - name: Myspace
+    url: https://myspace.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myspace.webp
+    description: 社交网络平台
+
+
+analysisTools:
   - name: 千瓜
     url: http://www.qian-gua.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/qiangua.webp
@@ -79,7 +158,6 @@ mediaTools:
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/5118.webp
     description: 兴趣电商数据专家
 
-
 removebg:
   - name: remove bg
     url: https://www.remove.bg/
@@ -87,10 +165,6 @@ removebg:
     description:  在线抠图
 
 onlinedocument:
-  - name: 在线文档
-    url: https://feishu.cn/drive/home/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/feishu.webp
-    description: 飞书在线文档
   - name: 幕布
     url: https://mubu.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mubu.webp
