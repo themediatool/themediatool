@@ -74,35 +74,35 @@ hotTools:
 innersocial:
   - name: 小红书
     url: https://www.xiaohongshu.com/explore
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/5118.webp
-    description: 5118通过对排名各类大数据挖掘,提供关键词挖掘,行业词库,站群权重监控,关键词排名监控,指数词,流量词挖掘工具
-  - name: 百家
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/xhs.webp
+    description: 小红书
+  - name: 百家号
     url: baijiahao.baidu.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
-    description: 百家
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/bjh.webp
+    description: 百家号
   - name: 抖音
     url: https://www.douyin.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/dy.webp
     description: 抖音
   - name: B站
     url: https://www.bilibili.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/bz.webp
     description: B站
-  - name: 西瓜
+  - name: 西瓜视频
     url: https://studio.ixigua.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/xg.webp
     description: 西瓜
   - name: 头条
     url: https://mp.toutiao.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/chatgpt.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/tt.webp
     description: 头条
   - name: 知乎
     url: https://www.zhihu.com/creator
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/feishu.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/zh.webp
     description: 知乎
   - name: 公众号
     url: https://mp.weixin.qq.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/feishu.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/gzh.webp
     description: 公众号
 
 outsocial:
